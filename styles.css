@@ -12,6 +12,7 @@ header{
 }
 
 h2 {
+background-color: inherit;
   font-family: serif;
   font-style: oblique;
   text-align: center;
