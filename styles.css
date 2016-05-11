@@ -15,9 +15,6 @@ h2 {
 background-color: inherit;
   font-family: serif;
   font-style: oblique;
-  float: left;
-}
+  float: none;
 
-section {
-  page-break-before: always;
 }
