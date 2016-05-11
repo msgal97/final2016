@@ -17,13 +17,12 @@ ul{
   list-style-type: none;
   margin: 5;
   padding: 5;
-
-background-color: inherit;
+  background-color: inherit;
   font-family: serif;
   font-size: 24px;
   font-style: oblique;
   font-weight: bold;
-  float: none;
+  float: right;
 
 }
 
