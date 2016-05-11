@@ -17,7 +17,9 @@ header{
 nav {
 background-color: inherit;
   font-family: serif;
+  font-size: 20px;
   font-style: oblique;
+  font-weight: bold;
   float: none;
 
 }
