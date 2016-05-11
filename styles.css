@@ -17,3 +17,7 @@ background-color: inherit;
   font-style: oblique;
   float: left;
 }
+
+section {
+  page-break-after: always;
+}
