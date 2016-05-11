@@ -9,13 +9,9 @@ header{
   font-size: 20px;
   float: left;
   padding: 5px;
+  padding-right: 100px;
 }
 
-section{
-  padding:20px;
-  padding-left: 100px;
-  pad
-}
 
 h2 {
 background-color: inherit;
