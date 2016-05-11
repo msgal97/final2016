@@ -14,7 +14,7 @@ header{
 }
 
 ul{
-  list-style-type: none;
+  list-style-position: outside;
   margin: 5;
   padding: 5;
 
