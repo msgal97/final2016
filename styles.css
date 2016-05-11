@@ -14,9 +14,9 @@ header{
 }
 
 ul{
-  list-style-position: outside;
+  list-style-type: none;
   margin: 5;
-  padding: 5;
+  padding: 100;
 
 background-color: inherit;
   font-family: serif;
